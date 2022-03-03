@@ -14,7 +14,8 @@
 ### Problem Statement and Key Objective
 
 <b> Context </b>
-- ipsum lorem
+- There's countless ends of fantasy sport articles and projections that provides the same values as mines.
+My projections is to be as risk adverse to the random events (e.g. injuries, COVID protocols, mid-season rotational changes, trades) as possible by using prior historical boxscores and numbers of games played,  as well as last year's team record.
 
 
 <b> Problem Statement </b>

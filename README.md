@@ -27,6 +27,7 @@ Trades have also significantly increased as well. 2021-22 season comprised of 35
 
 <b> Key Objective </b>
 - Rank Players based on Past Historical Boxscores, Team Record (for stability), salary (more $, more years left on contract means more overall minutes), and Injury History
+- Apply selective Z-scoring to the top 200 players from the previous year.
 - Adjust all the Percentage Weights (FG%, FT%, and 3PT%) based on volume
 ---
 
@@ -42,6 +43,7 @@ Trades have also significantly increased as well. 2021-22 season comprised of 35
 | **FG%_Adj** | Field Goal %, adjusted |
 | **FT%_Adj** | Free Throw %, adjusted |
 | **3PT%_Adj** | Field Goal %, adjusted |
+| **PR_Score** | Player Ranking Overall Score |
 
 
 ---

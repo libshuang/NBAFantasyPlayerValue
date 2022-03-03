@@ -32,7 +32,7 @@ The increase was even more pronounced when focusing on the league's stars. This 
 ### Data Dictionary
 | Column | Description |
 | --- | --- |
-| **Zip_code** | Zip Code. |
+| **Points** | Points. |
 
 
 ---

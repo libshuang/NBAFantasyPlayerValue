@@ -25,8 +25,8 @@ The increase was even more pronounced when focusing on the league's stars. This 
 
 - 
 <b> Key Objective </b>
-- ipsum lorem
-
+- Rank Players based on Past Historical Boxscores, Team Record (for stability), salary (more $, more years left on contract means more overall minutes), and Injury History
+- Adjust all the Percentage Weights (FG%, FT%, and 3PT%) based on volume
 ---
 
 ### Data Dictionary
@@ -39,11 +39,8 @@ The increase was even more pronounced when focusing on the league's stars. This 
 | **Blocks** | Blocks |
 | **ToV** | Turnovers |
 | **FG%_Adj** | Field Goal %, adjusted |
-
-
----
-
-### Conclusion and Recommendations
+| **FT%_Adj** | Free Throw %, adjusted |
+| **3PT%_Adj** | Field Goal %, adjusted |
 
 
 ---

@@ -1,4 +1,4 @@
-# NBAFantasyPlayerValue
+# NBA Fantasy Player Value Rest of Season
 
 ### Project Authors
 - Libin Huang | <u>[LinkedIn](https://www.linkedin.com/in/libinh/)</u>

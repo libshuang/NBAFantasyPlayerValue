@@ -1,4 +1,4 @@
-# NBA Fantasy Player Value Rest of Season
+# NBA Fantasy Player Value Projections
 
 ### Project Authors
 - Libin Huang | <u>[LinkedIn](https://www.linkedin.com/in/libinh/)</u>

@@ -22,6 +22,7 @@ According to an ESPN article written by Braxter Holmes, there were 2,909 games l
 
 The increase was even more pronounced when focusing on the league's stars. This season's All-Stars missed 370 of a possible 1,944 games (19%), the highest percentage in a season in NBA history, according to Elias Sports Bureau research. They missed an average of 13.7 regular-season games each this year. All in all, the injury count is far too high to be ignored, and must be a valuating factor in deciding in real life games, and in fantasy sports.
 
+Trades have also significantly increased as well. 2021-22 season comprised of 35 players, and 2020-21 had the most players moved the last decade: 48 players. In a player driven league now, being unable to meet expectations and a team reset is becoming more of a norm. Understanding player salary and past team records can help predict future moves within an NBA franchise.
 
 - 
 <b> Key Objective </b>

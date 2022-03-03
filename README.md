@@ -42,4 +42,5 @@ My projections is to be as risk adverse to the random events (e.g. injuries, COV
 ---
 
 ### Sources
-
+1. https://www.basketball-reference.com
+2. https://www.nba.com

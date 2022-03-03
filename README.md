@@ -32,7 +32,13 @@ The increase was even more pronounced when focusing on the league's stars. This 
 ### Data Dictionary
 | Column | Description |
 | --- | --- |
-| **Points** | Points. |
+| **Points** | Points |
+| **Assists** | Assists |
+| **Rebounds** | Rebounds |
+| **Steals** | Steals |
+| **Blocks** | Blocks |
+| **ToV** | Turnovers |
+| **FG%_Adj** | Field Goal %, adjusted |
 
 
 ---
